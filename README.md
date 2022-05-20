@@ -1,4 +1,4 @@
-# Ciencia-de-Dados-Estudo-Sobre-o-Suicidio
+# Ciência de Dados: Estudo Sobre o Suicidio
 <h2>Estudo sobre o Suicídio no Brasil de 2010 a 2019</h2>
 
 **Professor:**<br/>
